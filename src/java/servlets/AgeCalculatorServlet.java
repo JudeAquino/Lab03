@@ -6,7 +6,7 @@ package servlets;
 	import javax.servlet.http.HttpServletResponse;
 	/**
 	*
-	* @author judeaquino
+	* @author 809562
 	*/
 	public class AgeCalculatorServlet extends HttpServlet {
 	@Override
